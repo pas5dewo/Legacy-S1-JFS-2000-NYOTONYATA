@@ -1,7 +1,7 @@
-EXHIBIT 5216 -
+EXHIBIT 5216
 
 LEGACY S1: SYSTEMIC BANKING FRAUD INDONESIA
-GLOBAL 4-CONTINENT BANKING FRAUD (ID→SG→HK→EU)
+GLOBAL 4-CONTINENT BANKING FRAUD (ID_SG_HK_EU)
 OPEN SOURCE PUBLIC RECORD / EVIDENCE REPOSITORY
 Recorded: 27 Apr 2026 | Released: 28 Apr 2026 | GMT+7
 
@@ -36,4 +36,3 @@ This repository contains only public records and initials.
 Primary evidence secured for legal authorities only.
 For T.A.N (deceased), BOYAG (deceased), Z.A.Y (survivor), JFS Case
 NYOTONYATA ⚫⚖️
----
